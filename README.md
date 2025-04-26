@@ -75,13 +75,7 @@ only access.</li>
 <li><a href="https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/Selenium.jpg?raw=true">Testing Tools</a></li>
 </ul>
 
-<h4>ERPPMC</h4>
-<p>
-<ul>
-  <li> To be tested for realtime websites by manual testing, selenium automation testing.</li>
-  <li>Writing of test cases and test scenarios to make ERPPMC website completely bug free.</li>
-</ul>
-</p>
+
 
 <h3 align="left">CERTIFICATES</h3>
 <ul>
