@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Summary</h3>
-<p align="left">	As a developer with 2 years of experience in Web Based Application development. Proficient in frontend, leveraging at javascript to develop dynamic and responsive applications. skilled in translating client needs into functional, elegant and scalable output. Experienced in collaborating within agile teams to deliver high-quality solutions while adhering to strict timelines.</p>
+<p align="left">	Full Stack Web Developer with 3+ years of hands-on experience building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong in both frontend and backend development, with a deep understanding of RESTful APIs, secure authentication, and responsive UI/UX. Adept at translating client requirements into performant, maintainable applications from concept to deployment.</p>
 
 <h3 align="left">Work History</h3>
 <p>Title : Developer</p>
