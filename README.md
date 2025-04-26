@@ -1,6 +1,7 @@
 ![logo](https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/Raviteja_Banner.png)
 <h1 align="center">Hi 👋, I'm Ponnam Raviteja</h1>
-<h3 align="center">BTech graduate | 2 years of experience in software development | good knowledge on html, css, javascript, SQL queries, java, react js, XML, selenium | capable of doing testing</h3>
+<h3 align="center">Full Stack Web Developer | 3+ Years Experience | MERN Stack | React.js | Node.js | MongoDB | REST APIs | Git | Agile
+</h3>
 <br>
 <img align='right' alt='coding animation' width='400' src="https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/work-working.gif?raw=true">
 
