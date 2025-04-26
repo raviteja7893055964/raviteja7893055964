@@ -10,10 +10,9 @@
 <p align="left">	Full Stack Web Developer with 3+ years of hands-on experience building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong in both frontend and backend development, with a deep understanding of RESTful APIs, secure authentication, and responsive UI/UX. Adept at translating client requirements into performant, maintainable applications from concept to deployment.</p>
 
 <h3 align="left">Work History</h3>
-<p>Title : Developer</p>
+<p>Title :  Full Stack Web Developer</p>
 <p>Company : Tata Consultancy Services</p>
-
-<p>Project : ITTF- IT Trade Finance</p>
+<p>Project : SBI Trade Finance</p>
 
 <p>
 <ul>
