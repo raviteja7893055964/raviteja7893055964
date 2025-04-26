@@ -77,13 +77,13 @@ only access.</li>
 
 
 
-<h3 align="left">CERTIFICATES</h3>
+<!-- <h3 align="left">CERTIFICATES</h3>
 <ul>
 <li><a href="https://www.udemy.com/certificate/UC-fd658d5d-298a-4930-bc0e-747069b360c0/">The complete SQL Bootcamp 2022: Go from zero to Hero</a></li>
 <li><a href="https://www.freecodecamp.org/certification/fcc6219cbd6-81e3-4691-b726-9179ebff8ece/responsive-web-design">Responsive Web design</a></li>
 <li><a href="https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/forgue.jpeg?raw=true">Developer Job Simulation from Forage</a></li>
 <li><a href="https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/Selenium.jpg?raw=true">Testing Tools</a></li>
-</ul>
+</ul> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
