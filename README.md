@@ -29,16 +29,29 @@
 </p>
 
 <!-- projects -->
-<h3 align="left">Projectsy</h3>
-<!-- <p>Title :  Full Stack Web Developer</p>
-<p>Company : Tata Consultancy Services</p> -->
-<h4>Project :Currency Convertere</h4>
-
+<h3 align="left">Projects</h3>
+<h4>Project :Currency Converter</h4>
 <p>
 <ul>
   <li>This is a simple web application for converting currencies using HTML, CSS, and Javascript. It allows the user to
  select a currency to convert from and to, enter an amount, and see the converted amount.</li>
   <li>This project aims to provide a user-friendly interface for converting currencies using real-time exchange rates.</li>
+</ul>
+</p>
+
+<h3 align="left">CERTIFICATES</h3>
+<ul>
+<li><a href="https://www.udemy.com/certificate/UC-fd658d5d-298a-4930-bc0e-747069b360c0/">The complete SQL Bootcamp 2022: Go from zero to Hero</a></li>
+<li><a href="https://www.freecodecamp.org/certification/fcc6219cbd6-81e3-4691-b726-9179ebff8ece/responsive-web-design">Responsive Web design</a></li>
+<li><a href="https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/forgue.jpeg?raw=true">Developer Job Simulation from Forage</a></li>
+<li><a href="https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/Selenium.jpg?raw=true">Testing Tools</a></li>
+</ul>
+
+<h4>ERPPMC</h4>
+<p>
+<ul>
+  <li> To be tested for realtime websites by manual testing, selenium automation testing.</li>
+  <li>Writing of test cases and test scenarios to make ERPPMC website completely bug free.</li>
 </ul>
 </p>
 
