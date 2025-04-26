@@ -38,6 +38,14 @@
   <li>This project aims to provide a user-friendly interface for converting currencies using real-time exchange rates.</li>
 </ul>
 </p>
+<h4>Project :ERPPMCr</h4>
+<p>
+<ul>
+  <li>To be tested for realtime websites by manual testing, selenium automation testing.</li>
+  <li>Writing of test cases and test scenarios to make ERPPMC website completely bug free.</li>
+</ul>
+</p>
+
 
 <h3 align="left">CERTIFICATES</h3>
 <ul>
