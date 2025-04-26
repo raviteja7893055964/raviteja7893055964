@@ -17,15 +17,15 @@
 
 <p>
 <ul>
-  <li>• Working as a Full Stack Web Developer in the SBI Trade Finance project (Eximbills Enterprise), using MERN stack technologies.</li>
-  <li>• Developed scalable UI components using React.js, HTML5, CSS3, and JavaScript to streamline trade finance workflows.</li>
-  <li>• Built and maintained backend services with Node.js, Express.js, and integrated RESTful APIs for secure data handling.</li>
-<li>• Worked on secure authentication using JWT and Bcrypt, with role-based access control for different modules.</li>
-<li>• Implemented data transactions using MySQL and MongoDB, including optimized queries for large-scale financial data.</li>
-<li>• Ensured compliance with SWIFT and ISO 20022 standards in real-time payment transactions.</li>
-<li>• Customized enterprise modules using China Systems and integrated financial protocols.</li>
-<li>• Used Agile methodologies to coordinate with backend developers, QA teams, and business stakeholders.</li>
-<li>• Tools/Technologies: React.js, Node.js, Express.js, MongoDB, MySQL, JWT, Git, Postman, Selenium, Agile, Core Java, JDBC.</li>
+  <li>Working as a Full Stack Web Developer in the SBI Trade Finance project (Eximbills Enterprise), using MERN stack technologies.</li>
+  <li>Developed scalable UI components using React.js, HTML5, CSS3, and JavaScript to streamline trade finance workflows.</li>
+  <li>Built and maintained backend services with Node.js, Express.js, and integrated RESTful APIs for secure data handling.</li>
+<li>Worked on secure authentication using JWT and Bcrypt, with role-based access control for different modules.</li>
+<li>Implemented data transactions using MySQL and MongoDB, including optimized queries for large-scale financial data.</li>
+<li>Ensured compliance with SWIFT and ISO 20022 standards in real-time payment transactions.</li>
+<li>Customized enterprise modules using China Systems and integrated financial protocols.</li>
+<li>Used Agile methodologies to coordinate with backend developers, QA teams, and business stakeholders.</li>
+<li>Tools/Technologies: React.js, Node.js, Express.js, MongoDB, MySQL, JWT, Git, Postman, Selenium, Agile, Core Java, JDBC.</li>
 </ul>
 </p>
 
