@@ -38,11 +38,31 @@
   <li>This project aims to provide a user-friendly interface for converting currencies using real-time exchange rates.</li>
 </ul>
 </p>
-<h4>Project :ERPPMCr</h4>
+<h4>Project :ERPPMC</h4>
 <p>
 <ul>
   <li>To be tested for realtime websites by manual testing, selenium automation testing.</li>
   <li>Writing of test cases and test scenarios to make ERPPMC website completely bug free.</li>
+</ul>
+</p>
+<h4>Project :E-commerce</h4>
+<p>
+<ul>
+  <li> It is an online store offering a range of products with a sleek and easy-to-navigate interface. It’s designed to provide
+ a seamless shopping experience for users.</li>
+  <li>Technologies used: React.js, Node.js, MongoDB, Express</li>
+</ul>
+</p>
+<h4>Project :MERN Role-Based Product Manager</h4>
+<p>
+<ul>
+  <li> Designed a full-stack product CRUD system with role-based permissions (Admin, Manager, Staff).</li>
+  <li>Built secure login/registration system using JWT tokens and password hashing with Bcrypt.</li>
+  <li>Created modular Express routes with middleware to enforce role-based access.</li>
+  <li>Technologies used: React.js, Node.js, MongoDB, Express, JWT.</li>
+  <li>Created modular Express routes with middleware to enforce role-based access.</li>
+  <li>Integrated UI permissions: Admins can add, delete and edit products, Managers can update/view, Staff has read
+only access.</li>
 </ul>
 </p>
 
