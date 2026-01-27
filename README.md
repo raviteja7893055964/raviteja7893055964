@@ -1,4 +1,4 @@
-![logo](https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/Raviteja_Banner.png)
+![logo](https://github.com/raviteja7893055964/raviteja7893055964/blob/gh-pages/banner.png)
 <h1 align="center">Hi 👋, I'm Ponnam Raviteja</h1>
 <h3 align="center">Full Stack Web Developer | 3+ Years Experience | MERN Stack | React.js | Node.js | MongoDB | REST APIs | Git | Agile
 </h3>
